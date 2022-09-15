@@ -14,7 +14,8 @@ In order to complete these tasks, we first had to collect the data using Python,
 ## Summary Statistics and Analysis
 
 Below is the table for the summary statistics for Grade 9. 
-![grade_9_summary](Resources/grade_9_summary.png)
+
+
 
 From the process of cleaning, prepping and analyzing the data, we can conclude: 
 
